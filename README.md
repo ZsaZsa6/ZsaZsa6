@@ -13,6 +13,8 @@
 
 You can contact me at:
 📧rondacowen5@gmail.com
+🔗https://www.linkedin.com/in/rondacowen/
+
 
 
 
@@ -25,5 +27,6 @@ Fun facts about me:
 
 
 
-[![Ronda's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsazsa6)](https://github.com/zsazsa6/github-readme-stats)
+[![Ronda's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsazsa6)](https://github.com/zsazsa6/github-readme-stats&show_icons=true&theme=radical)
+
 
