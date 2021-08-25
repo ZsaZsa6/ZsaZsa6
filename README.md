@@ -11,9 +11,18 @@
 
 💔practicing Data Structures and Algorithms
 
-##Fun facts about me: 
+You can contact me at:
+📧rondacowen5@gmail.com
+
+
+
+
+Fun facts about me: 
+
 😜👶6️⃣I have SIX grandkids and they all call me Zsa Zsa, hence the name of my Github!!
+
 🎂🍰🐩I am an avid baker, cake decorator and am a dog mom to one spoiled Zuchon named Bella!
+
 
 
 [![Ronda's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsazsa6)](https://github.com/zsazsa6/github-readme-stats)
