@@ -1,3 +1,8 @@
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 # Hi,👋 my name is Ronda Cowen and I am a Full Stack Software Engineer specializing in React and Ruby on Rails. 
 
 
@@ -19,7 +24,8 @@ You can contact me at:
 
 
 
-Fun facts about me: 
+
+######Fun facts about me: 
 
 😜👶6️⃣I have SIX grandkids and they all call me Zsa Zsa, hence the name of my Github!!
 
