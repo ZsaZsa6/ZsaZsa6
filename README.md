@@ -1,6 +1,6 @@
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+Format: ![Alt Text](https://res.cloudinary.com/zsazsa6/image/upload/v1630691180/Background%20pics/pexels-daria-shevtsova-1680140_vcj7zv.jpg)
 
 
 # Hi,👋 my name is Ronda Cowen and I am a Full Stack Software Engineer specializing in React and Ruby on Rails. 
